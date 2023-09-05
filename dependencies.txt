@@ -1,0 +1,5 @@
+torch
+openai-whisper
+pandas
+SpeechRecognition
+vosk
