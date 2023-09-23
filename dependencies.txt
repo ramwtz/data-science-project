@@ -3,3 +3,8 @@ openai-whisper
 pandas
 SpeechRecognition
 vosk
+librosa
+ipython-autotime
+tqdm
+tensorflow
+seaborn

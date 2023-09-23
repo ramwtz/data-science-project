@@ -161,3 +161,8 @@ cython_debug/
 
 # google drive
 .tmp.driveupload/
+
+# data
+/data/calls/*/*.wav
+/data/calls/*/*.mp3
+/model/
