@@ -10,3 +10,5 @@ ipython-autotime
 SpeechRecognition
 vosk
 openai-whisper
+scikit-learn
+sentence-transformers
