@@ -1,3 +1,10 @@
 geopandas
 matplotlib
 seaborn
+librosa
+tqdm
+scikit-learn
+scipy
+tensorflow
+ipython-autotime
+numpy==1.25
