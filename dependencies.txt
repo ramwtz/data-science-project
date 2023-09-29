@@ -12,3 +12,4 @@ vosk
 openai-whisper
 scikit-learn
 sentence-transformers
+pocketsphinx
