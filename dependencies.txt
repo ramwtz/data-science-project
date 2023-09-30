@@ -1,0 +1,14 @@
+numpy
+scipy
+torch
+pandas
+seaborn
+tensorflow
+librosa
+tqdm
+ipython-autotime
+SpeechRecognition
+vosk
+openai-whisper
+scikit-learn
+sentence-transformers
