@@ -166,3 +166,4 @@ cython_debug/
 /data/calls/*/*.wav
 /data/calls/*/*.mp3
 /model/
+models/*
