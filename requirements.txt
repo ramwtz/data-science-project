@@ -1,11 +1,11 @@
 numpy==1.24.1
 seaborn==0.12.2
+pandas==1.5.3
 geopandas
 ipython-autotime
 librosa
 matplotlib
 openai-whisper
-pandas
 pocketsphinx
 pydot
 scikit-learn
@@ -16,3 +16,9 @@ tensorflow
 torch
 tqdm
 vosk
+fastapi
+kaleido
+python-multipart
+uvicorn
+cohere
+openai
