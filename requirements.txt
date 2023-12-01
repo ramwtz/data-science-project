@@ -16,3 +16,6 @@ tensorflow
 torch
 tqdm
 vosk
+accelerate
+plotly
+nbformat
