@@ -17,6 +17,9 @@ tensorflow
 torch
 tqdm
 vosk
+accelerate
+plotly
+nbformat
 fastapi
 kaleido
 python-multipart
