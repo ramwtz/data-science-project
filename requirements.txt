@@ -28,3 +28,6 @@ cohere
 openai
 nltk
 wordcloud
+jupyterlab
+ipywidgets
+bertviz
