@@ -26,3 +26,5 @@ python-multipart
 uvicorn
 cohere
 openai
+nltk
+wordcloud
